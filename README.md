@@ -2,7 +2,7 @@
 
 ## Summary 
 
-Arduino code build to control 2 HUB75 LED matrixs for a costume build of mine. In particular to run animations, colour changes and facial expressions.
+Code build to control 2 HUB75 LED matrixs for a costume build of mine. In particular to run animations, colour changes and facial expressions.
 
 ## Why the silly name?
 
