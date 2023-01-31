@@ -1,3 +1,13 @@
+# Toaster OS V3.1 - Forked from [hZeller](https://github.com/hzeller/rpi-rgb-led-matrix)
+
+## Summary 
+
+Arduino code build to control 2 HUB75 LED matrixs for a costume build of mine. In particular to run animations, colour changes and facial expressions.
+
+## Why the silly name?
+
+This project has gone though at least three electronics builds in real life so far; it seems fitting that this is neither a beta nor the version 1 of the software.
+
 Controlling RGB LED display with Raspberry Pi GPIO
 ==================================================
 
